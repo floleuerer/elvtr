@@ -128,6 +128,9 @@ ENV/
 env.bak/
 venv.bak/
 
+.chroma/
+flagged/
+
 # Spyder project settings
 .spyderproject
 .spyproject
